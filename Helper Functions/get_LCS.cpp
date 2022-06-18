@@ -45,7 +45,7 @@ string getLCS(string a, string b, int al, int bl)
 
 int main()
 {
-    string a = "aldkfjalaryan", b = "aryan";
+    string a = "aafffffffdsafasd", b = "fff";
     cout << getLCS(a, b, a.length(), b.length()) << nln;
 
 }
